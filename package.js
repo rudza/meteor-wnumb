@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rudolfs:wnumb',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'wNumb.js for Meteor',
   git: 'https://github.com/rudza/meteor-wnumb',
   documentation: 'README.md'
