@@ -1,4 +1,4 @@
-wnumb
+wNumb.js
 =====
 
 wNumb - JavaScript Number &amp; Money formatting
