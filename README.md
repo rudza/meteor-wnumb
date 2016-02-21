@@ -3,6 +3,8 @@ wnumb
 
 wNumb - JavaScript Number &amp; Money formatting
 
+```meteor add rudolfs:wnumb```
+
 # Documentation
 
 Documentation and examples are available on [refreshless.com/wnumb](http://refreshless.com/wnumb/).
